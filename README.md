@@ -13,3 +13,6 @@ Hackathon Information (Entertainment Track):
 2. I want the user experience to be smooth and easy for users to understand the games without requiring much text. I incorporated a minimalistic approach in my design to achieve this.
 3. The project is made almost entirely with JavaScript. I used CSS to maintain the same style across different pages.
 4. An issue I encountered was that I was struggling to make the style of the games more unique. If I had more time, I would have liked to give a bit more personal flair to the graphics of the games. One feature I could have added to achieve this would be a dark mode or other color palette options.
+
+Update: First Place Winner for the Entertainment Category
+https://devpost.com/software/virtual-arcade
